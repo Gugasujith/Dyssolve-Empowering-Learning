@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720711638559",
+    "project_id": "dyssolve-a5685",
+    "storage_bucket": "dyssolve-a5685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720711638559:android:868cef3973f6fb08baff2a",
+        "android_client_info": {
+          "package_name": "com.example.dyssolve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720711638559-4q5avm2bakq3oopk6analfgjomspfvdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJ_U2VWQmrTeHwuSMCftWXsQXaSfoo7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720711638559-4q5avm2bakq3oopk6analfgjomspfvdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
