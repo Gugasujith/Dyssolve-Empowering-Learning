@@ -40,14 +40,28 @@ Dyssolve addresses these issues by providing a comprehensive platform that lever
 
 By integrating these features, Dyssolve aims to bridge the communication gap and provide an inclusive educational experience for students with dual disabilities.
 
-**Home Screen:**
+### Home Screen:
 
 <img width="358" algin = "centre" alt="Screenshot 2024-07-24 at 3 36 51 PM" src="https://github.com/user-attachments/assets/8d27069a-7c7c-46e8-ab8d-a38ba2a8ad5e">
 
+### Morse Typer:
+
 <img width="361" alt="Screenshot 2024-07-24 at 3 37 43 PM" src="https://github.com/user-attachments/assets/51aa2fe4-7958-436c-a819-7cba0ee36494">
+
+### Text to Morse:
+
 <img width="356" alt="Screenshot 2024-07-24 at 3 38 13 PM" src="https://github.com/user-attachments/assets/f2340f64-dd9b-4e39-a0fd-e3df8b73eb3e">
+
+### Speach to Morse:
+
 <img width="357" alt="Screenshot 2024-07-24 at 3 39 17 PM" src="https://github.com/user-attachments/assets/b0f74654-228e-4373-b841-13e33fd349a1">
+
+### Tutorial:
+
 <img width="360" alt="Screenshot 2024-07-24 at 3 39 59 PM" src="https://github.com/user-attachments/assets/e45df005-f4a0-4f91-9beb-2f6d657fa7d5">
+
+### Article Reader: 
+
 <img width="359" alt="Screenshot 2024-07-24 at 3 40 14 PM" src="https://github.com/user-attachments/assets/503fe8a7-0860-4baa-8dcd-9b7f93191050">
 <img width="359" alt="Screenshot 2024-07-24 at 3 40 29 PM" src="https://github.com/user-attachments/assets/6a528027-1255-4735-baac-8c153023437c">
 
