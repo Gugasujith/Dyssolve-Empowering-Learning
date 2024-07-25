@@ -41,6 +41,7 @@ Dyssolve addresses these issues by providing a comprehensive platform that lever
 By integrating these features, Dyssolve aims to bridge the communication gap and provide an inclusive educational experience for students with dual disabilities.
 
 **Home Screen:**
+
 <img width="358" algin = "centre" alt="Screenshot 2024-07-24 at 3 36 51 PM" src="https://github.com/user-attachments/assets/8d27069a-7c7c-46e8-ab8d-a38ba2a8ad5e">
 
 <img width="361" alt="Screenshot 2024-07-24 at 3 37 43 PM" src="https://github.com/user-attachments/assets/51aa2fe4-7958-436c-a819-7cba0ee36494">
